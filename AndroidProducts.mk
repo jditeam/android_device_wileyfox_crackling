@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/crackling_64
+    $(LOCAL_DIR)/aosp_crackling.mk
